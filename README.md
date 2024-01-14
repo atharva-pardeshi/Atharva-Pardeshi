@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating apps using Kotlin<br>📚 I'm currently working with Jetpack Compose<br>🎯 Achieve high end responsive UI and smooth user Experience</p>
+<p align="left">✨ Creating apps using Kotlin and Java<br>📚 I'm currently working with Jetpack Compose<br>🎯 Achieve high end responsive UI and smooth user Experience</p>
 
 ###
 
